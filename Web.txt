@@ -1,0 +1,6 @@
+Software
+Software is a set of instructions, programs, and data that tells a computer how to work. It is an important part of a computer system that makes hardware useful.
+There are two main types of software: system software and application software. System software helps the computer run, such as operating systems like Windows and Linux. Application software is used to perform specific tasks like writing documents, browsing the internet, or playing games.
+Software is used in almost every field such as education, business, healthcare, communication, and entertainment. It makes tasks faster, easier, and more efficient.
+With the growth of technology, software development has become one of the most important and in-demand careers in the world.
+Software is the heart of modern technology.
